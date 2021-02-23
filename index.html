@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" href="favicon.png"/>
+    <title>Drone Forward Email Signature</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Signature Generator</h1>
+    <div class="information">
+        <section>
+            <div class="information__input">
+                <h2>Your information</h2>
+                <form>
+                    <input
+                    v-model="name"
+                    autofocus
+                    placeholder="Enter your name"
+                    />
+                    <input
+                    v-model="title"
+                    autofocus
+                    placeholder="Enter your title"
+                    />
+                    <input
+                    v-model="email"
+                    autofocus
+                    placeholder="Enter your email"
+                    />
+                    <input
+                    v-model="mobile"
+                    autofocus
+                    placeholder="Enter your phone number"
+                    />
+                </form>
+            </div>
+            <div class="output">
+                <h2>Click to select all text.</h2>
+                <div class="source">
+                    <div ref="sourceWrapper">
+                        <table id="source" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td>
+                                    <a tabindex="-1" href="https://www.droneforwardinc.com" target='_blank'>
+                                        <img src="https://user-images.githubusercontent.com/12411476/108610124-302b3900-73a1-11eb-8522-dce7b0c838e7.png" style="padding-top: 8px;" width="100">
+                                    </a>
+                                </td>
+                                <td style="padding-left:10px;">
+                                    <span class="outputName" style="font-weight: bold; color: #e05a00;">{{ name }}</span><br>
+                                    <span class="title" style="font-weight: bold; color: #1c1c1c;">{{ title }}</span><br>
+                                    <span class="email" style="color: #1c1c1c;">Email: {{ email }}</span>
+                                    <br>
+                                    <a class="phone" style="color: #1c1c1c;">Mobile: {{ mobile }}</a><br>
+                                    <span><b style="font-size: 85%; color: #1c1c1c;">Strengthen the contributions of robotics and unmanned vehicle technologies</b></span>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+<script src="https://unpkg.com/vue@next"></script>
+<script type="module">
+    const app = {
+            data() {
+                return {
+                logo: "https://rh.convenia.com.br/assets/institucional/images/convenia-color.png",
+                name: "",
+                title: "",
+                email: "",
+                mobile: "",
+                office: "",
+                }
+            }
+        }
+    Vue.createApp(app).mount('#app')
+</script>
+
+</body>
+</html>

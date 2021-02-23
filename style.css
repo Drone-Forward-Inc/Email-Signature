@@ -1,0 +1,208 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+.top-logo {
+ display: flex;
+ margin: 50px auto -40px;
+ z-index: -1;
+ width: 150px;
+}
+
+html {
+	height: 100%;
+	box-sizing: content-box;
+  font-family: "Roboto";
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#app {
+	font-family: "Roboto";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #2c3e50;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 2rem;
+	margin-top: 1rem;
+	font-weight: 500;
+	color: #37474f;
+	font-size: 1rem;
+}
+
+h1::before {
+    content: '';
+    content: url(https://user-images.githubusercontent.com/12411476/108794633-023a2600-7554-11eb-9f63-c42f9fef8c1c.png);
+    display: block;
+    position: absolute;
+    top: 37px;
+    left: 38.8%;
+}
+
+#source {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    color:#37474f;
+    text-align:left;
+    line-height:20px;
+}
+
+@media (min-width: 740px) {
+	h1 {
+		font-size: 1.5rem;
+		margin-bottom: 3rem;
+		margin-top: 3rem;
+	}
+}
+
+h2 {
+	margin: 0;
+	font-size: 0.9rem;
+	font-weight: 700;
+	color: #37474f;
+	position: absolute;
+	top: -1rem;
+	margin-top: -10px;
+}
+
+h2 b {
+	color: #6D64E8;
+}
+
+.outputName, .title {
+    text-transform: capitalize;
+}
+
+.outputName {
+    font-size: 105%;
+}
+
+.title {
+    font-size: 95%;
+    line-height: 1.5;
+}
+
+.email, .phone {
+    font-size: 83%;
+    line-height: 0.5;
+}
+
+@media (min-width: 740px) {
+	h2 {
+		left: -1px;
+	}
+}
+
+.information {
+	width: 100%;
+	margin: 0 auto 88px;
+}
+
+@media (min-width: 740px) {
+	.information {
+		width: 90%;
+		max-width: 1024px;
+	}
+}
+
+.information section {
+	display: flex;
+	flex-flow: column;
+}
+
+@media (min-width: 740px) {
+	.information section {
+		margin-bottom: 2rem;
+		justify-content: flex-start;
+	}
+}
+
+.information section > div {
+	background: #ddd;
+	padding: 0.5rem;
+}
+
+.information section > div:last-child {
+	background-color: #fff;
+	border: 1px solid #ddd;
+}
+
+@media (min-width: 740px) {
+	.information section > div {
+		position: relative;
+		padding: 40px;
+		margin: 0 20px 60px;
+	}
+}
+
+.information__input {
+	position: relative;
+	margin-bottom: 2rem;
+}
+
+.information__input:last-of-type {
+	margin-bottom: 0;
+}
+
+@media (min-width: 740px) {
+	.information__input {
+		flex: 0 10rem;
+		margin-right: 2rem;
+		margin-bottom: 0;
+	}
+}
+
+.information__input form {
+	width: 100%;
+}
+
+.information__input input {
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	border: none;
+	height: 30px;
+}
+
+.information__input input:last-child {
+	margin-bottom: 0;
+}
+
+.output {
+	flex: 1;
+}
+
+@media (min-width: 320px) and (max-width: 740px) {
+	.output {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 2;
+		margin-bottom: 0;
+	}
+
+	.output h2 {
+		display: none;
+	}
+}
+
+.source {
+	box-sizing: border-box;
+	height: 100%;
+	position: relative;
+  padding: 20px;
+}
+
+.source > div {
+	margin: auto;
+}
+
+.output-logo {
+  padding-top: 8px;
+}
