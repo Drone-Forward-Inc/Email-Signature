@@ -27,7 +27,7 @@ Open the new email, select pen icon, you will see your signatures is there. If y
 
 Then, you good to go. Happy Email signature adventure. 
 
-<img width="750" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.29%20PM.png">
+<img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.29%20PM.png">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
