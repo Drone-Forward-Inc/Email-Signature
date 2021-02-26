@@ -21,7 +21,7 @@ On the general page, scroll down to signature section. And, paste your signature
 <img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.02.52%20PM.png">
 <img width="750" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.05%20PM.png">
 
-Open the new email, select pen icon, you will see your signatures is there. If you have several signatures, you can give them a name. It will be easier to recognize which one is which. 
+Open the new email, select pen icon, you will see your signatures is there. If you have several signatures, you can give them names separately. It will be easier to recognize which one is which. 
 
 <img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.18%20PM.png">
 
