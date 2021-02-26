@@ -16,7 +16,7 @@ Go to your gmail account. On the top right, click the setting button and then ch
 
 <img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.01.55%20PM.png">
 
-On the general page, scroll down to signature section. And, paste your signature into right block. Dont forget to solve it.
+On the general page, scroll down to signature section. And, paste your signature into right block. Dont forget to save it.
 
 <img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.02.52%20PM.png">
 <img width="750" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.05%20PM.png">
