@@ -14,20 +14,20 @@ Select image and text
 
 Go to your gmail account. On the top right, click the setting button and then choose all settings button.
 
-<img width="500" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.01.55%20PM.png">
+<img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.01.55%20PM.png">
 
 On the general page, scroll down to signature section. And, paste your signature into right block. Dont forget to solve it.
 
-<img width="500" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.02.52%20PM.png">
-<img width="500" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.05%20PM.png">
+<img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.02.52%20PM.png">
+<img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.05%20PM.png">
 
 Open the new email, select pen icon, you will see your signatures is there. If you have several signatures, you can give them a name. It will be easier to recognize which one is which. 
 
-<img width="500" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.18%20PM.png">
+<img width="300" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.18%20PM.png">
 
 Then, you good to go. Happy Email signature adventure. 
 
-<img width="500" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.29%20PM.png">
+<img width="750" src="https://github.com/Drone-Forward-Inc/Email-Signature/blob/main/Screen%20Shot%202021-02-26%20at%2012.03.29%20PM.png">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
