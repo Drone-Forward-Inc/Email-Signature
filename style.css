@@ -34,15 +34,6 @@ h1 {
 	font-size: 1rem;
 }
 
-h1::before {
-    content: '';
-    content: url(https://user-images.githubusercontent.com/12411476/108794633-023a2600-7554-11eb-9f63-c42f9fef8c1c.png);
-    display: block;
-    position: absolute;
-    top: 37px;
-    left: 38.8%;
-}
-
 #source {
     font-family: Helvetica, Arial, sans-serif;
     font-size:14px;
